@@ -1,1 +1,2 @@
 # htmljs
+qrscaner 
